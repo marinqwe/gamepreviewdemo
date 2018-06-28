@@ -1,0 +1,42 @@
+{
+    "games": [
+        {
+            "id": 12345,
+            "name": "Dota 2",
+            "genre": "Multiplayer online battle arena",
+            "description":
+                "Dota 2 is a free-to-play multiplayer online battle arena (MOBA) video game developed and published by Valve Corporation. The game is the stand-alone sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character, known as a ``hero``, who all have unique abilities and differing styles of play. During a match, players collect experience points and items for their heroes to successfully battle the opposing team's heroes in player versus player combat. A team wins by being the first to destroy a large structure located in the opposing team's base, called the ``Ancient``.",
+            "thumbnailURL":
+                "https://res.cloudinary.com/teepublic/image/private/s--ZN1OWoLD--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1489237320/production/designs/1310293_1.jpg",
+            "imageURL": "https://y4j7y8s9.ssl.hwcdn.net/wp-content/uploads/2016/11/3026092-2827525372-dota-.jpg"
+        },
+        {
+            "id": 54334,
+            "name": "Counter Strike",
+            "genre": "First person shooter",
+            "description": "Counter-Strike (CS) is a series of multiplayer first-person shooter video games, in which teams of terrorists battle to perpetrate an act of terror (bombing, hostage-taking) and counter-terrorists try to prevent it (bomb defusal, hostage rescue). The series began on Windows in 1999 with the first game, Counter-Strike. It was initially released as a modification (``mod``) for Half-Life and designed by Minh ``Gooseman`` Le and Jess ``Cliffe`` Cliffe before the rights to the game's intellectual property were acquired by Valve Corporation, the developers of Half-Life.",
+            "thumbnailURL":
+                "https://steamuserimages-a.akamaihd.net/ugc/792933198599084787/49574C5936D7022D597227832C87F6B0C8863AEB/",
+            "imageURL":
+                "https://steamuserimages-a.akamaihd.net/ugc/884253767815840939/680B8D76C4B993156E1D6D6425AF8A0A1BB071A3/"
+        },
+        {
+            "id": 44226,
+            "name": "Diablo III",
+            "genre": "Action role-playing game, Hack & slash",
+            "description": "Diablo III is a dungeon crawler action role-playing video game developed and published by Blizzard Entertainment. It is the third installment in the Diablo franchise and was released on May 15, 2012 for Microsoft Windows and macOS. A console version was released for the PlayStation 3 and Xbox 360 on September 3, 2013. Versions for PlayStation 4 and Xbox One were released on August 19, 2014. In the game, players choose one of seven character classes – Barbarian, Crusader, Demon Hunter, Monk, Necromancer, Witch Doctor or Wizard (with the Crusader being unavailable unless the player has purchased the expansion pack, Diablo III: Reaper of Souls and the Necromancer added later as separate online purchase) – and are tasked with defeating the Lord of Terror, Diablo.",
+            "thumbnailURL": "https://seeklogo.com/images/D/diablo-3-logo-776C6119CB-seeklogo.com.jpg",
+            "imageURL":
+                "https://media.durmaplay.com/images/durmaplay/products/background/diablo-3-reaper-of-souls-pc-satin-al-durmaplay.jpg"
+        },
+        {
+            "id": 21388,
+            "name": "World of Warcraft",
+            "genre": "Massive multi-player online role playing game",
+            "description": "World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment. It is the fourth released game set in the Warcraft fantasy universe. World of Warcraft takes place within the Warcraft world of Azeroth, approximately four years after the events at the conclusion of Blizzard's previous Warcraft release, Warcraft III: The Frozen Throne. Blizzard Entertainment announced World of Warcraft on September 2, 2001. The game was released on November 23, 2004, on the 10th anniversary of the Warcraft franchise.",
+            "thumbnailURL": "https://seeklogo.com/images/W/world-of-warcraft-logo-B9B6FAA0CB-seeklogo.com.jpg",
+            "imageURL":
+                "https://i.amz.mshcdn.com/clD1uV9pVjRu6-wJYdSjpV5F00I=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F640756%2F2c422612-f3ea-43db-8301-63281ecf206c.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+.listitem{
+    width: 180px;
+    height: 140px;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    border-bottom: 2px solid gray;
+    border-right: 2px solid gray;
+    border-radius: 5px;
+    margin: 4px 0;
+}
+
+.listitem__item {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-around;
+    :hover{
+        cursor: pointer;
+    }
+}
+.listitem__remove {
+    color: #b3b3cc;
+}

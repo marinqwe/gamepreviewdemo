@@ -1,0 +1,14 @@
+.background {
+    display: block;
+    align-items: center;
+    background: url('/images/qwerbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.title {
+    text-align: center;
+    font-size: $xl-size;
+    padding: 36px 0;
+}

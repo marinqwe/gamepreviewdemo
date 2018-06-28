@@ -1,0 +1,13 @@
+.gamedetails {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+    padding-bottom: 20px;
+}
+
+.details__description {
+    height: 150px;
+}
